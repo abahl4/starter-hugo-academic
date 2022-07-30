@@ -27,12 +27,12 @@ content:
   # Contact details (edit or remove options as required)
   email: abahl@eoas.ubc.ca
   address:
-    street: Earth, Oceanic and Atmospheric Sciences Department
+    department: Earth, Oceanic and Atmospheric Sciences Department
+    instituion: The University of British Columbia 
     city: Vancouver
     region: BC
-    postcode: '94305'
+    postcode: 'V6T 1Z4'
     country: Canada
-    country_code: CA
   contact_links:
     - icon: twitter
       icon_pack: fab
