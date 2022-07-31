@@ -50,11 +50,11 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/abahl4/starter-hugo-academic'
     content_dir: content
     branch: master
   avatar:
